@@ -3,8 +3,7 @@
 #### 项目缘由
 - 
 #### 项目介绍
-- VBlog 是一款基于最新技术开发的多人在线、简洁的博客系统；
-- vblog-api是该博客系统的后端API接口服务；
+
 - 该博客系统的前端页面代码见https://gitee.com/seu-lfh/vblog-web.git。
 
 #### 技术架构
